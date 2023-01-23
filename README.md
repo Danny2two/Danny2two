@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danny2two
 - 👀 I’m interested in learning more
-- 🌱 I’m currently learning Python, Matlab, C/C++
+- 🌱 I’m currently learning Python, Matlab, C++, Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
